@@ -1,1 +1,1 @@
-This repository shows week 1 assignment of using the input function in pyhton
+This repository shows all the assignemnts that i will complete during my time studying pyhton.
